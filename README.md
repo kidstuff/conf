@@ -1,4 +1,4 @@
 conf
 ====
 
-A configuration service writen in Go
+A configuration interface writen in Go for general use case
